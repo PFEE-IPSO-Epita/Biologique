@@ -1,0 +1,39 @@
+ERROR FOUND:
+
+
+Marqueur incorrect
+    doc 4: titre x2
+    doc 5: volume globulaire moyen (refaire verif marqueur)
+    doc 4: clairance calculee de la creatinine 89mL/min (penser au synonyme)
+    doc 25: bilirubine totale/conjugee
+
+Pourcentage:
+    doc 4: albumine, page 7
+    doc 5: lymphocytes, monocytes
+    doc 19: sur plusieurs ligne, x2
+    doc 25: lymph, mono
+    doc 28: same
+    doc 29: lympho
+
+Synonyme:
+    doc 10: cholesterole 
+    doc 20: same
+    doc 25: re
+    doc 29: hemoglobine a1c
+    doc 29: choles
+
+code:
+    doc 28: recuperer chiffre plusieurs mot; leucocytes
+    doc 29: hematocrite; position des mots x5
+
+Unite fausse:
+    doc 18: cholesterol 1,44/ (x3)
+    doc 20: leucoyturie; / mL => garde juste ml
+
+Erreur OCR:
+    doc 25: ccmh; valeur sur la ligne avant
+
+question medecin:
+    plaquette x ? ; doc 5
+    calcium/ calcium corrige; doc 20
+    bilirubine totale/conjugue/libre: doc 25
